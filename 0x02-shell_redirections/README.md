@@ -12,3 +12,4 @@ T10. Write a script that deletes all the regular files (not the directories) wit
 T11. A script that counts the number of directories and sub-directories in the current directory
 T12. A script that displays the 10 newest files in the current directory
 T13. A script that takes a list of words as input and prints only words that appear exactly once
+T14. Display lines containing the pattern “root” from the file /etc/passwd
