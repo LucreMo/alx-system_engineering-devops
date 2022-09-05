@@ -11,3 +11,4 @@ T9. Write a script that duplicates the last line of the file iacta
 T10. Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 T11. A script that counts the number of directories and sub-directories in the current directory
 T12. A script that displays the 10 newest files in the current directory
+T13. A script that takes a list of words as input and prints only words that appear exactly once
