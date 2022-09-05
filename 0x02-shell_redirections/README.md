@@ -23,3 +23,4 @@ T21. A script that reverse its input
 T22. A script that displays all users and their home directories, sorted by users
 T23. A command that finds all empty files and directories in the current directory and all sub-directories
 T24. A script that lists all the files with a .gif extension in the current directory and all its sub-directories
+T25. A script that decodes acrostics that use the first letter of each line
