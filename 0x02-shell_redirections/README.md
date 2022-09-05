@@ -13,3 +13,4 @@ T11. A script that counts the number of directories and sub-directories in the c
 T12. A script that displays the 10 newest files in the current directory
 T13. A script that takes a list of words as input and prints only words that appear exactly once
 T14. Display lines containing the pattern “root” from the file /etc/passwd
+T15. Display the number of lines that contain the pattern “bin” in the file /etc/passwd
