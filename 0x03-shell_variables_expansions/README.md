@@ -15,3 +15,4 @@ T13. A script that prints a number with two decimal places, followed by a new li
 T14. A script that converts a number from base 10 to base 16
 T15. A script that encodes and decodes text using the rot13 encryption. Assume ASCII
 T16. A script that prints every other line from the input, starting with the first line
+T17. A shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
