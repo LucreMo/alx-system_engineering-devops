@@ -7,3 +7,4 @@ T5. A script that lists all local variables and environment variables, and funct
 T6. A script that creates a new local variable
 T7. A script that creates a new global variable.
 T8. A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+T9. A script that prints the result of POWER divided by DIVIDE, followed by a new line.
